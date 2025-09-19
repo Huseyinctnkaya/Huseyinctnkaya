@@ -10,7 +10,7 @@ I’m an 18-year-old front-end developer based in Turkey. My journey in software
 
 - 🌍 I'm Based in İzmir, Turkey  
 - 🌐 Be sure to check out my [personal site](https://huseyincetinkaya.com)  
-- ✉️ You can contact me at [huseyinctnakaya12@gmail.com](mailto:huseyinctnakaya12@gmail.com)  
+- ✉️ You can contact me at [huseyinctnkaya12@gmail.com](mailto:huseyinctnkaya12@gmail.com)  
 - 🛠️ I'm Currently focusing on **Shopify Development**  
 
 <hr style="border:0.5px solid #444; margin: 20px 0;" />
